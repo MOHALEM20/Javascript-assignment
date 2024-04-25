@@ -1,0 +1,40 @@
+body{
+    background-color:whitesmoke;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 180px;
+    padding-right: 180px;
+}
+.bio{
+
+    padding-left: 180px;
+    padding-right: 180px;
+    display: flex;
+    justify-content: space-between;  
+    background-color:blanchedalmond
+
+}
+.footer{
+    padding-left: 180px;
+    padding-right: 180px;
+    display: flex;
+    justify-content: space-between;  
+}
+.links{
+    display: flex;
+    flex-direction: column;
+}
+.paragraph{
+    width: 300px;
+}
+
+video{
+margin-left: 400px;
+}
+.personalinfo{
+    display: flex;
+    justify-content: space-around;
+}
